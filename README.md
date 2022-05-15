@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Nodejs and react js
 - 💞️ I’m looking to collaborate on flask projects
 - 📫 How to reach me LinkedIn- https://www.linkedin.com/in/jai-tank/
--                     Instagram - https://www.instagram.com/_jatank_
 
 <!---
 Jaitank/Jaitank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
