@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jaitank
 - 👀 I’m interested in Coding, Web Development, Machine Learning and more in Computer science.
 - 🌱 I’m currently learning Nodejs and react js
-- 💞️ I’m looking to collaborate on flask projects
+- 💞️ I’m looking to collaborate on flask and react projects
 - 📫 How to reach me LinkedIn- https://www.linkedin.com/in/jai-tank/
 
 <!---
